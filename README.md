@@ -1,19 +1,39 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Tristan Isham</h1>
+<h3 align="center">A ambitious full-stack developer</h3>
 
-I'm Tristan, a web and system's developer interested in text and networking.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tristanisham&label=Profile%20views&color=0e75b6&style=flat" alt="tristanisham" /> </p>
 
-### Some fun facts about me
-- Linux is my favorite operating system
-  - Debian and PopOS are my favorite distros
-- I like Go, Rust, and C++ (It's like playing "Getting Over It" for me).
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tristanisham" alt="tristanisham" /></a> </p>
 
-### What I'm working on right now.
+<p align="left"> <a href="https://twitter.com/tristanisham" target="blank"><img src="https://img.shields.io/twitter/follow/tristanisham?logo=twitter&style=for-the-badge" alt="tristanisham" /></a> </p>
 
-# [Grove](https://github.com/tristanisham/grove)
-A modern open package manager with a responsive TUI interface, built in package server, and installation manager written in Go with [Bubbletea](https://github.com/charmbracelet/bubbletea)
-![image](https://user-images.githubusercontent.com/23124818/160960158-63d28322-64bb-4f55-b53f-8451d46918c8.png)
+- 🔭 I’m currently working on [Bottle](https://git.sr.ht/~atalocke/bottle)
 
-# [Based Count](https://basedcount.com)
-A data aggregation website integrated with the 10th busiest subreddit.
-![image](https://user-images.githubusercontent.com/23124818/160960372-a715d318-fbb3-4a1d-81c0-6e05db259e3e.png)
+- 🌱 I’m currently learning **Game Development**
 
+- 👨‍💻 All of my projects are available at [https://ham.onl](https://ham.onl)
+
+- 📝 I regularly write articles on [https://u8.quest](https://u8.quest)
+
+- 💬 Ask me about **Go,TypeScript, or Web Development**
+
+- 📫 How to reach me **tristan@isham.co**
+
+- 📄 Know about my experiences [https://ham.onl/resume.pdf](https://ham.onl/resume.pdf)
+
+- ⚡ Fun fact **I make money from Reddit**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/tristanisham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tristanisham" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tristanisham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tristanisham" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tristanisham&show_icons=true&locale=en&layout=compact" alt="tristanisham" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tristanisham&show_icons=true&locale=en" alt="tristanisham" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tristanisham&" alt="tristanisham" /></p>
