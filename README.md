@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/tristanisham" target="blank"><img src="https://img.shields.io/twitter/follow/tristanisham?logo=twitter&style=for-the-badge" alt="tristanisham" /></a> </p>
 
-- 🔭 I’m currently working on [Bottle](https://git.sr.ht/~atalocke/bottle)
+- 🔭 I’m currently working on [zvm](https://github.com/tristanisham/zvm)
 
-- 🌱 I’m currently learning **Game Development**
+- 🌱 I’m currently learning **Compiler Development**
 
 - 👨‍💻 All of my projects are available at [https://ham.onl](https://ham.onl)
 
 - 📝 I regularly write articles on [https://u8.quest](https://u8.quest)
 
-- 💬 Ask me about **Go,TypeScript, or Web Development**
+- 💬 Ask me about **Go, Rust, PHP, or Web Development**
 
 - 📫 How to reach me **tristan@isham.co**
 
