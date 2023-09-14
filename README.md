@@ -13,8 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [https://ham.onl](https://ham.onl)
 
-- 📝 I regularly write articles on [https://u8.quest](https://u8.quest)
-
 - 💬 Ask me about **Go, Rust, PHP, or Web Development**
 
 - 📫 How to reach me **tristan@isham.co**
