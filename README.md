@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tristanisham" alt="tristanisham" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/tristanisham" target="blank"><img src="https://img.shields.io/twitter/follow/tristanisham?logo=twitter&style=for-the-badge" alt="tristanisham" /></a> </p>
+<p align="left"> <a href="https://twitter.com/atalocke" target="blank"><img src="https://img.shields.io/twitter/follow/atalocke?logo=twitter&style=for-the-badge" alt="atalocke" /></a> </p>
 
 - 🔭 I’m currently working on [zvm](https://github.com/tristanisham/zvm)
 
