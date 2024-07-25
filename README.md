@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Compiler Development**
 
-- 👨‍💻 All of my projects are available at [https://ham.onl](https://ham.onl)
+- 👨‍💻 All of my projects are available at [https://tristan.cx](https://tristan.cx)
 
 - 💬 Ask me about **Go, Rust, PHP, or Web Development**
 
