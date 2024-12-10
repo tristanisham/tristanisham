@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **tristan@isham.co**
 
-- 📄 Know about my experiences [https://ham.onl/resume.pdf](https://ham.onl/resume.pdf)
+- 📄 Know about my experiences [https://tristan.cx/resume.pdf](https://tristan.cx/resume.pdf)
 
 - ⚡ Fun fact **I make money from Reddit**
 
